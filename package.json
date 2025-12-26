@@ -10,6 +10,7 @@
   "bugs": {
     "url": "https://github.com/TonyFred-code/interactive-rating-component/issues"
   },
+  "author": "Alfred O. Faith (Tony Fred)",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
