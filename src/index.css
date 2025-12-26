@@ -15,6 +15,30 @@
   --color-grey-500: hsl(217, 12%, 63%);
   --color-grey-900: hsl(213, 19%, 18%);
   --color-grey-950: hsl(216, 12%, 8%);
+
+  /* ---- ANIMATIONS ---- */
+  --animate-fade-out: fade-out 0.5s ease-out forwards;
+  --animate-fade-in: fade-in 0.5s ease-in forwards;
+
+  @keyframes fade-out {
+    0% {
+      opacity: 1;
+    }
+
+    100% {
+      opacity: 0;
+    }
+  }
+
+  @keyframes fade-in {
+    0% {
+      opacity: 0;
+    }
+
+    100% {
+      opacity: 1;
+    }
+  }
 }
 
 @layer base {
