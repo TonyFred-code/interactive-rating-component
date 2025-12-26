@@ -43,9 +43,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-grey-950 flex items-center justify-center px-4 py-6">
       {submitted && (
-        <div
-          className={`${submitted && "animate-fade-in"} bg-grey-900/40 max-w-md md:rounded-4xl rounded-lg p-5 md:p-7 space-y-7 text-center`}
-        >
+        <div className="animate-fade-in bg-grey-900/40 max-w-md md:rounded-4xl rounded-lg p-5 md:p-7 space-y-7 text-center">
           <div className="flex items-center justify-center flex-col gap-5 mb-10">
             <img src="/images/illustration-thank-you.svg" alt="" />
             <span className="inline-block text-orange-500 rounded-full py-2 px-3 bg-grey-900">

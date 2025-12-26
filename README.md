@@ -38,8 +38,7 @@ Solution Built:
 ### Links
 
 - Solution URL: [GitHub Source Code](https://github.com/TonyFred-code/interactive-rating-component/)
-<!-- TODO: add live site url -->
-- Live Site URL: [Vercel Deployed Demo](https://example.com/)
+- Live Site URL: [Vercel Deployed Demo](https://interactive-rating-component-sandy-three.vercel.app/)
 
 ## Built with
 
